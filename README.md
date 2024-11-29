@@ -1,4 +1,4 @@
-# 📝 Note App
+# 📝 Notes App
 
 A simple and intuitive web-based application for creating, managing, and organizing notes. This app allows users to jot down ideas, tasks, and reminders efficiently, with a focus on simplicity and usability.
 
@@ -28,7 +28,7 @@ _A screenshot of the Notes App showcasing its clean design and functionality._
 
    ```bash
    git clone https://github.com/rahat728/notes-app.git
-   cd note-app
+   cd notes-app
    ```
 
 2. **Open `index.html` in your browser** to launch the app.
